@@ -1,6 +1,6 @@
-# eladmin-qt
+# qxwechat-small-act-admin-qt
 
-eladmin 前端源码
+qxwechat-small-act-admin 前端源码
 
 #### 项目源码
 
